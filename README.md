@@ -1,5 +1,5 @@
 # Welcome to CarHub: the Preferred Platform for car Enthusiasts, this project is built upon  modern  | React, Next JS 13, TypeScript, Tailwind CSS
-![Car Showcase](https://i.ibb.co/GxvFJDZ/Thumbnail.png)
+![CarHub)[https://imgur.com/a/i4Gwxdt]
 
 ## Introduction
 The demand for Next.js 13 applications peaked! Now is the perfect time to build a state-of-the-art modern application that leverages all of the latest and greatest of what Next 13 has to offer, leveraging features such as server-side rendering and the app router. 
